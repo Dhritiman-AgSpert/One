@@ -91,18 +91,8 @@
 
 ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃
 
-## End-point: http://localhost:3000/socket/connect
-### Method: POST
->```
->http://localhost:3000/socket/connect
->```
-### Headers
-
-|Content-Type|Value|
-|---|---|
-|Authorization|Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MzUzZmU2Y2Y4OWVjYTZmZTQwMmJjZSIsImlhdCI6MTY4MTIxMTQwMCwiZXhwIjoxNjgxMjk3ODAwfQ.MO6fdy0v7m4gGUq_yIpLvPmcFTIO-tgQjcjNR7vhulA|
-
-
+## End-point: ws://localhost:8080
+Test this endpoint using `nodemon test.js`
 
 ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃
 _________________________________________________
